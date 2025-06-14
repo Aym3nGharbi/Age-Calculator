@@ -4,9 +4,7 @@ A simple and elegant web-based **Age Calculator** that allows users to calculate
 
 ## 🌐 Live Demo
 
-> [🔗 Try it here](#)  
-> *(Replace `#` with your live website link once deployed)*
-
+> [🔗 Try it here](https://aym3ngharbi.github.io/Age-Calculator/)  
 ---
 
 ## 🚀 Features
@@ -58,6 +56,6 @@ A simple and elegant web-based **Age Calculator** that allows users to calculate
 ## ✨ Author
 
 **Aymen Gharbi**  
-🔗 [Portfolio](https://aym3ngharbi.github.io/Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/gharbi-aymen/) | 🐱 [GitHub](https://github.com/your-username)
+🔗 [Portfolio](https://aym3ngharbi.github.io/Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/gharbi-aymen/) | 🐱 [GitHub](https://github.com/Aym3nGharbi)
 
 ---
